@@ -5,3 +5,4 @@ comp_num = rand(100)
 while comp_num != user_answer.to_i do
 	puts "Type 'H' if my number is too high. Type 'L' if my number is too low."
 
+end

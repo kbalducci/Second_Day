@@ -1,55 +1,55 @@
 QUESTIONS = [
-{
-:name => "What is the command to create a new git repo?", 
-:answers => [
-	'git new',
-	'git init',
-	'new git repo',
-	'create-github'
-	],
-	:correct_answer => 2
-},
+  {
+  :name => "What is the command to create a new git repo?", 
+  :answers => [
+  	'git new',
+  	'git init',
+  	'new git repo',
+  	'create-github'
+  	],
+  	:correct_answer => 2
+  },
 
-{
-:name => "What is my favorite sushi?",
-:answers => [
-	'Cali Roll',
-	'Sweet Potato Roll',
-	'Tuna',
-	'Shrimp'
+  {
+  :name => "What is my favorite sushi?",
+  :answers => [
+  	'Cali Roll',
+  	'Sweet Potato Roll',
+  	'Tuna',
+  	'Shrimp'
+  	],
+  	:correct_answer =>2
+  },
+  {
+  :name => "How many chairs are in this room?",
+  :answers => [
+  	10,
+  	1,
+  	11,
+  	9
+  	],
+  	:correct_answer =>3
+  },
+  {
+  :name => "How many continents are there?",
+  :answers => [
+  	7,
+  	5,
+  	6,
+  	3
+  	],
+  	:correct_answer =>1
+  },
+  {
+  :name => "How many states are in New England?",
+  :answers => [
+  	10,
+  	6,
+  	4,
+  	9
 	],
-	:correct_answer =>2
-},
-{
-:name => "How many chairs are in this room?",
-:answers => [
-	10,
-	1,
-	11,
-	9
-	],
-	:correct_answer =>3
-},
-{
-:name => "How many continents are there?",
-:answers => [
-	7,
-	5,
-	6,
-	3
-	],
-	:correct_answer =>1
-},
-{
-:name => "How many states are in New England?",
-:answers => [
-	10,
-	6,
-	4,
-	9
-	],
-	:correct_answer =>2
-}
+  	:correct_answer =>2
+  }
 ]
 
 correct_answers = 0
